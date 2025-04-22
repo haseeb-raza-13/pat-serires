@@ -13,7 +13,7 @@ Whether you're just starting out or want to take your R skills to the next level
 I hope you find it useful—and if you do, feel free to star ⭐ the repo and share it with fellow learners!
 
 Happy Coding!\
-**_Haseeb Raza_**
+**_Haseeb Raza_** \
 **_Founder Microinformatics_**
 > Email: haseebraza.hr13@gmail.com\
 > Institute of Microbiology,\
