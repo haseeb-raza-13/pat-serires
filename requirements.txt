@@ -1,0 +1,4 @@
+1- R 
+2- R Studio
+3- Git 
+4- GitHub
