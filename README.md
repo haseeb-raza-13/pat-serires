@@ -15,7 +15,10 @@ I hope you find it useful—and if you do, feel free to star ⭐ the repo and sh
 Happy Coding!\
 **_Haseeb Raza_**
 **_Founder Microinformatics_**
-> haseebraza.hr13@gmail.com\
-> Institute of Microbiology,\ University of Agriculture Faisalabad.
+> Email: haseebraza.hr13@gmail.com\
+> Institute of Microbiology,\
+> University of Agriculture Faisalabad.
+
+
 **For any questions or feedback, please open an issue or reach out directly. Let's learn together!**
 
