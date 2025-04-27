@@ -20,11 +20,14 @@ Happy Coding!\
 > University of Agriculture Faisalabad.
 
 
-**For any questions or feedback, please open an issue or reach out directly. Let's learn together!**
+**For any questions or feedback, please open an issue or reach out directly through our WhatsApp group. Let's learn together!**
+
+[Click here to join the WhatsApp group](https://chat.whatsapp.com/BaSH4NitjZDInwiuKkxpNT)
 
 ## Lecture 01 : Getting Started with R 
 
-Learn how to install R, set up an R project, and get started with the basics of R programming. In this lecture I've highlighted the significance of **Base R** over the packages and libraries like *tidyverse*.\
+Learn how to install R, set up an R project, and get started with the basics of R programming. In this lecture I've highlighted the significance of **Base R** over the packages and libraries like *tidyverse*.
+
 [Here is the link to the YouTube tutorial for Lecture 01](https://www.youtube.com/watch?v=9HdetPl17v0&list=PLOUqKOpGBAWS5Dj5vKxEshGNWxrNoEurw)
 
 
