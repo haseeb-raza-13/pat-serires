@@ -24,6 +24,12 @@ Happy Coding!\
 
 ## Lecture 01 : Getting Started with R 
 
-Learn how to install R, set up an R project, and get started with the basics of R programming.
+Learn how to install R, set up an R project, and get started with the basics of R programming. In this lecture I've highlighted the significance of **Base R** over the packages and libraries like *tidyverse*.\
 [Here is the link to the YouTube tutorial for Lecture 01](https://www.youtube.com/watch?v=9HdetPl17v0&list=PLOUqKOpGBAWS5Dj5vKxEshGNWxrNoEurw)
 
+
+## Lecture 02 : Data types, Variables, Vectors & Matrices in R
+
+I've tried to explain the basic *data types* (i.e. numeric, character, boolean and complex), *variables* and different ways to assign a variable, *vectors* and creating vectors with the help of multiple function like, seq(), rep() and c(), different ways to access data from a vector (i.e. using indexing, other vectors, and keys etc), and creating and accessing data from inside a *matrix* to understand, how a lower triangle matrix can be read in R.\ 
+
+[Here is the link to the YouTube tutorial, for Lecture 02](https://www.youtube.com/watch?v=M11jD9J4ydk&list=PLOUqKOpGBAWS5Dj5vKxEshGNWxrNoEurw&index=2)
